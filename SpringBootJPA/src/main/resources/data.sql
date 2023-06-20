@@ -1,0 +1,10 @@
+insert into alien values (101, 'TEJAS', 'JAVA');
+insert into alien values (102, 'LEO', 'PYTHON');
+insert into alien values (103, 'LUIS', 'C++');
+insert into alien values (104, 'NEY', 'JAVA');
+insert into alien values (105, 'XAVI', 'JS');
+insert into marks values (101, 100, 90);
+insert into marks values (102, 99, 90);
+insert into marks values (103, 98, 90);
+insert into marks values (104, 97, 90);
+insert into marks values (105, 96, 90);
